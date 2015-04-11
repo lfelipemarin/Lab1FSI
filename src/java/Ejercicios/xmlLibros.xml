@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<?xml-stylesheet type="text/xsl" href="xslLibros.xsl"?>
+<libros
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="xsdLibros.xsd">
+    <libro>
+        <titulo>PROGRAME CON NETBEANS: UNA GUIA PRACTICA</titulo>
+        <autor>Diego Botia</autor>
+        <isbn>ISBN:182380-1231-12313</isbn>
+        <añopublicacion>2009</añopublicacion>
+    </libro>
+    <libro>
+        <titulo>INTRODUCCION A VISUAL BASIC .NET</titulo>
+        <autor>Juan Perez</autor>
+        <isbn>ISBN:243423-234423-234243</isbn>
+        <añopublicacion>2010</añopublicacion>
+    </libro>
+    <libro>
+        <titulo>PROGRAMACION EN ANDROID</titulo>
+        <autor>Javier Gutierrez</autor>
+        <isbn>ISBN:645645-4564-13231</isbn>
+        <añopublicacion>2012</añopublicacion>
+    </libro>
+    
+</libros>
