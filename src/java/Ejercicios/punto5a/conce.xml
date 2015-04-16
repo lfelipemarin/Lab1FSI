@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<!--El parámetro encoding es necesario para poder incluir acentos (tildes) -->
+<!--y otras opciones de puntuación, quítalo y verás los errores-->
+<?xml-stylesheet type="text/xsl" href="pelis.xsl"?>
+<CONCESIONARIO>
+    <AUTO>
+        <MARCA>Renault</MARCA>
+        <TIPO>Vehiculo/Automovil</TIPO>
+        <MODELO>Clio U Style</MODELO>
+        <CILINDRAJE>1149cc</CILINDRAJE>
+         <NUMEROCILINDROS>4</NUMEROCILINDROS>
+         <NUMEROVALVULAS>16</NUMEROVALVULAS>
+        <TRANSMISION>Manual 5 Velocidades</TRANSMISION>
+        <IMAGEN>Clio.jpg</IMAGEN>
+        <PRECIO>23.790.000</PRECIO>
+        <URL>https://www.renault.com.co/cars/ClioStyle/galeria.html</URL>
+    </AUTO>
+    
+    <AUTO>
+        <MARCA>Renault</MARCA>
+        <TIPO>Vehiculo/Automovil</TIPO>
+        <MODELO>Logan</MODELO>
+        <CILINDRAJE>1598cc</CILINDRAJE>
+        <NUMEROCILINDROS>4</NUMEROCILINDROS>
+        <NUMEROVALVULAS>8</NUMEROVALVULAS>
+        <TRANSMISION>Manual 5 Velocidades</TRANSMISION>
+        <IMAGEN>Logan.jpg</IMAGEN>
+        <PRECIO>23.790.000</PRECIO>
+        <URL>https://www.renault.com.co/cars/nuevologan/overview.html</URL>
+    </AUTO>
+    
+         
+    <AUTO>
+        <MARCA>Renault</MARCA>
+        <TIPO>Vehiculo/Automovil</TIPO>
+        <MODELO>Sandero</MODELO>
+        <CILINDRAJE>1598cc</CILINDRAJE>
+        <NUMEROCILINDROS>4</NUMEROCILINDROS>
+        <NUMEROVALVULAS>8</NUMEROVALVULAS>
+        <TRANSMISION>Manual 5 Velocidades</TRANSMISION>
+        <IMAGEN>Sandero.jpg</IMAGEN>
+        <PRECIO>23.790.000</PRECIO>
+        <URL>https://www.renault.com.co/cars/sanderoph2/overview.html</URL>
+    </AUTO>
+    
+    <AUTO>
+        <MARCA>Renault</MARCA>
+        <TIPO>Camioneta</TIPO>
+        <MODELO>Stepway</MODELO>
+        <CILINDRAJE>1598cc</CILINDRAJE>
+        <NUMEROCILINDROS>4</NUMEROCILINDROS>
+        <NUMEROVALVULAS>16</NUMEROVALVULAS>
+        <TRANSMISION>Manual 5 Velocidades</TRANSMISION>
+        <IMAGEN>Stepway.jpg</IMAGEN>
+        <PRECIO>23.790.000</PRECIO>
+        <URL>https://www.renault.com.co/cars/stepwayph2/overview.htmll</URL>
+    </AUTO>
+    
+    <AUTO>
+        <MARCA>Renault</MARCA>
+        <TIPO>Camioneta</TIPO>
+        <MODELO>Duster</MODELO>
+        <CILINDRAJE>1998cc</CILINDRAJE>
+        <NUMEROCILINDROS>4</NUMEROCILINDROS>
+        <NUMEROVALVULAS>16 DOHC con RTECH</NUMEROVALVULAS>
+        <TRANSMISION>Manual 5 Velocidades</TRANSMISION>
+        <IMAGEN>Duster.jpg</IMAGEN>
+        <PRECIO>23.790.000</PRECIO>
+        <URL>https://www.renault.com.co/cars/duster/overview.html</URL>
+    </AUTO>
+    
+    <AUTO>
+        <MARCA>Renault</MARCA>
+        <TIPO>Camioneta</TIPO>
+        <MODELO>Koleos</MODELO>
+        <CILINDRAJE>2488cc</CILINDRAJE>
+        <NUMEROCILINDROS>4</NUMEROCILINDROS>
+        <NUMEROVALVULAS>16</NUMEROVALVULAS>
+        <TRANSMISION>Manual 5 Velocidades</TRANSMISION>
+        <IMAGEN>Koleos.jpg</IMAGEN>
+        <PRECIO>23.790.000</PRECIO>
+        <URL>https://www.renault.com.co/cars/koleosph3/diseno.html</URL>
+    </AUTO>
+</CONCESIONARIO>
