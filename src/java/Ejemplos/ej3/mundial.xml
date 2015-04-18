@@ -1,0 +1,36 @@
+<?xml-stylesheet type="text/xsl" href="mundial"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<equipos>
+    <equipo>
+        <pais posicion="1">Francia</pais>
+        <grupo>A</grupo>
+        <colores>
+            <azul/>
+            <rojo/>
+            <blanco/>            
+        </colores>        
+    </equipo>
+    <equipo>
+        <pais posicion="30">Mexico</pais>
+        <grupo>G</grupo>
+        <colores>
+            <rojo/>
+            <verde/>
+            <blanco/>            
+        </colores>        
+    </equipo>
+    <equipo>
+        <pais posicion="5">Brasil</pais>
+        <grupo>H</grupo>
+        <colores>
+            <azul/>
+            <amarillo/>
+        </colores>        
+    </equipo>
+</equipos>
